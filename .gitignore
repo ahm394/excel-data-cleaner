@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Logs
+*.log
+
+# Generated data
+customers_filtered.xlsx
+cleaned_data.csv
+
+# Backup files
+*_backup.py
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
