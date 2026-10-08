@@ -105,13 +105,10 @@ The application includes a Tkinter GUI with:
 
 ```text
 excel-data-cleaner/
-│
 ├── app.py
 ├── cleaner.py
-├── cleaner_connection_test.py
+├── data.csv
 ├── requirements.txt
 ├── README.md
-├── .gitignore
-│
-├── customers_filtered.xlsx
-└── cleaner.log
+└── .gitignore
+```
